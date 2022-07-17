@@ -48,6 +48,14 @@ body {
   color: #000;
   background: #ccf;
 }
+
+.pagination li {
+    margin: 10px;
+  }
+
+  ul.pagination {
+    display: flex;
+      }
 /*
 .nav-links{
   padding:2em;
