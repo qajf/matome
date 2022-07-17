@@ -1,0 +1,67 @@
+<header>
+  <div class="h_top">
+<div class="h_left">
+  <h1><a href="/">{{ .Site.Title }}</a></h1>
+  <span>OFFICIAL  WEBSITE</span>
+  </div>
+    <nav class="gnavi__pc-style">
+<ul class="navbar nav">
+        {{ $currentPage := . }}
+       {{ range .Site.Menus.main }}
+           {{ if .HasChildren }}
+               <li class="dropdown" >
+                   <a href="{{ .URL }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                       {{ .Pre }}
+                       <span class="caret">{{ .Name }}</span>
+                   </a>
+
+               <ul class="dropdown-menu">
+                   {{ range .Children }}
+                       <li>
+                           <a href="{{ .URL }}">{{ .Name }}</a>
+                       </li>
+                   {{ end }}
+               </ul>
+               </li>
+           {{ else }}
+               <li>
+                   <a href="{{ .URL }}">
+                       {{ .Pre }}
+                       <span>{{ .Name }}</span>
+                   </a>
+               </li>
+           {{ end }}
+       {{ end }}
+
+   </ul>
+
+
+
+</div>
+</nav>
+<script>
+$(function(){
+    var menuBtn = $("#menu-btn"),
+        menuContent = $("#menu-content");
+    menuBtn.click(function(){
+        menuContent.slideToggle();
+    });
+    $(window).resize(function(){
+        var win = $(window).width(),
+            p = 960;
+        if(win > p){
+            menuContent.show();
+        }else{
+            menuContent.hide();
+        }
+    });
+});
+</script>
+
+<div class="menu-btn">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  
+</header>

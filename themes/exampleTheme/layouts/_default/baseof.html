@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    {{ partial "head.html" . }}
+    <body>
+        {{ partial "header.html" . }}
+        <div id="nav-border" class="nav-container">
+
+        <div class="center">
+          <h1 class="justify-content-center">QAJF(QArymJapanFlynn)ツイッターまとめ (2019.5月～2020.11.9まで)</h1>
+          <h5 class="justify-content-center">
+
+ここではEriさん（ツイッターアカウント @okabaeri9111)のツイートや隊員たちの重要なツイートをテキストでまとめました</h5>
+          </div>
+
+
+        </div>
+        <div class="container">
+        <div class="row">
+        <div id="content" class="col-sm-8">
+        {{ block "main" . }}{{ end }}
+        </div>
+        <div class="col-sm-4">
+
+
+
+    <h3>カテゴリー</h3>
+    <ul class="side-menu-list">
+{{ range $items := .Site.Taxonomies.categories.Alphabetical.Reverse }}
+<li><a href="{{ $.Site.BaseURL }}/categories/{{ .Name | urlize | lower }}/">{{ .Name }} ({{ .Count }})</a></li>
+{{ end }}
+</ul>
+
+
+
+
+        </div>
+      </article>
+    </div>
+
+        </div>
+      </div>
+    </div>
+        {{ partial "footer.html" . }}
+    </body>
+</html>

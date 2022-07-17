@@ -1,0 +1,16 @@
+
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+{{ partial "metadata.html" . }}
+<br><br>
+{{ .Content }}
+
+{{ with .PrevInSection }}
+         <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
+       {{ end }}
+       {{ with .NextInSection }}
+         <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
+       {{ end }}
+
+{{ end }}

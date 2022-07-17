@@ -1,0 +1,64 @@
+
+{{ define "main" }}
+
+<h1>Twitter まとめ</h1>
+
+<ul class="gallery">
+ {{ range (.Paginator 5).Pages }}
+
+ <li>
+	     <div class="gallery-contents">
+   {{ if .Params.thumbnail }}
+
+		     <div class="image_box">
+
+           <a href="{{ .Permalink }}">
+
+
+               <img src="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="rounded-lg shadow-sm w-full h-52 object-cover" style="object-fit: cover;" />
+
+
+               </div>
+           <div class="content_box gallery_box">
+            <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+             {{ partial "metadata.html" . }}
+
+{{ .Summary }}
+{{ if .Truncated }}
+      <!-- This <div> includes a read more link, but only if the summary is truncated... -->
+      <div class="read">
+        <a href="{{ .RelPermalink }}">続きを読む…</a>
+      </div>
+      {{ end }}
+
+
+       </div>
+
+
+           {{else}}
+
+        <div class="gallery_box">
+         <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+          <div class="date">{{ .Date.Format "2006.01.02 (Mon)" }}</div>
+
+<p>{{ .Summary }}</p>
+
+{{ if .Truncated }}
+      <!-- This <div> includes a read more link, but only if the summary is truncated... -->
+      <div class="read">
+        <a href="{{ .RelPermalink }}">続きを読む…</a>
+      </div>
+      {{ end }}
+
+
+    </div>
+{{end}}
+ </div>
+    </li>
+
+
+  {{end}}
+</ul>
+{{ template "_internal/pagination.html" . }}
+
+{{ end }}

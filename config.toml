@@ -1,0 +1,125 @@
+baseURL = "https://qajf.github.io/matome"
+title = "QArmyJapan Flynn"
+theme = "exampleTheme"
+languageCode = "ja"
+hasCJKLanguage = true
+staticDir = ["static", "images", "img"]
+[markup.goldmark.renderer]
+unsafe= true
+[menu]
+  
+  [[menu.main]]
+    name = "Information"
+    url = "https://qajf.github.io/information.html"
+    weight = 2
+  [[menu.main]]
+    name = "event"
+    url = "https://qajf.github.io/event.html"
+    parent = "Information"
+    weight = 3
+  [[menu.main]]
+    name = "Telegram"
+    url = "https://qajf.github.io/telegram.html"
+    parent = "Information"
+    weight = 3
+  [[menu.main]]
+    name = "Q"
+    url = "https://qajf.github.io/q.html"
+    weight = 4
+  [[menu.main]]
+    name = "Graphic comps of Q posts"
+    url = "https://postimg.cc/gallery/X3qjyWj"
+    parent = "Q"
+    weight = 4
+  [[menu.main]]
+    name = "Q Aggregator"
+    url = "https://www.inthematrixxx.com/qagg/"
+    parent = "Q"
+    weight = 4
+  [[menu.main]]
+    name = "Resignation.info"
+    url = "https://www.resignation.info/"
+    parent = "Q"
+    weight = 4
+  [[menu.main]]
+    name = "MEMETIC WARFARE"
+    url = "https://memewarrior.net/"
+    parent = "Q"
+    weight = 4
+  [[menu.main]]
+    name = "Trump Twitter Archive V2"
+    url = "https://www.thetrumparchive.com/"
+    parent = "Q"
+    weight = 4
+    target="_blank"
+  [[menu.main]]
+    name = "Qmap"
+    url= "https://qajf.github.io/qmap.html"
+    weight = 5
+  [[menu.main]]
+    name = "QAJF"
+    url= "https://qajf.github.io/qajf.html"
+    weight = 6
+[[menu.main]]
+    name = "History"
+    url = "https://qajf.github.io/history.html"
+    parent = "QAJF"
+[[menu.main]]
+    name = "EriQmapJapan"
+    url = "https://qajf.github.io/eriqmapjapan.html"
+    parent = "QAJF"
+weight = 6
+[[menu.main]]
+    name = "QAJFレッドピルニュース"
+    url = "https://qajf.officialblog.jp/"
+    parent = "QAJF"
+      target= "_blank"
+[[menu.main]]
+      name ="Radio"
+      url = "https://qajf.github.io/radio.html"
+weight = 7
+[[menu.main]]
+     name = "LIVE"
+     url = "https://tarouxx7.wixsite.com/mysite"
+     target = "_blank"
+weight = 8
+[[menu.main]]
+     name = "meme"
+     url = "/galleries/"
+     target = "_blank"
+weight = 9
+[[menu.main]]
+     name = "Tools"
+     url = "https://qajf.github.io/tools.html"
+weight = 10
+[[menu.main]]
+     name = "blog"
+     url = "https://qajf.github.io/blognew"
+     target = "_blank"
+weight = 11
+[[menu.main]]
+     name = "Link"
+     url = "https://qajf.github.io/link.html"
+weight = 12
+[[menu.main]]
+     name = "海外サイト"
+     url = "https://qajf.github.io/worldsite.html"
+     parent = "Link"
+weight = 13
+[[menu.main]]
+     name = "便利ツール"
+     url = "https://qajf.github.io/convinient.html"
+     parent = "Link"
+weight = 14
+[[menu.main]]
+     name = "Contact"
+     url = "https://qajf.github.io/contact.html"
+weight = 15
+
+  
+
+ 
+ 
+
+ 
+ 

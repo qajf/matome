@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    {{ partial "head.html" . }}
+    <body>
+        {{ partial "header.html" . }}
+        <div class="container">
+        <div class="row">
+        <div id="content" class="col-sm-8">
+        {{ block "main" . }}{{ end }}
+        </div>
+        <div class="col-sm-4">
+          <ul class="side-menu-list">
+            <h3>Archive</h3>
+    {{ range $items := .Site.Taxonomies.archives.Alphabetical.Reverse }}
+        <li><a href="{{ $.Site.BaseURL }}archives/{{ .Name | urlize | lower }}">{{ .Name }} ({{ .Count }})</a></li>
+    {{ end }}
+    <h3>Categories</h3>
+{{ range $items := .Site.Taxonomies.categories.Alphabetical.Reverse }}
+<li><a href="{{ $.Site.BaseURL }}categories/{{ .Name | urlize | lower }}/">{{ .Name }} ({{ .Count }})</a></li>
+{{ end }}
+</ul>
+
+
+
+
+        </div>
+      </article>
+    </div>
+
+        </div>
+      </div>
+    </div>
+        {{ partial "footer.html" . }}
+    </body>
+</html>

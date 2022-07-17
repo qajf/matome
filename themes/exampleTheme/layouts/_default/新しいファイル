@@ -1,0 +1,45 @@
+<ul>
+ {{ range .Pages }}
+   {{ partial "metadata.html" . }}
+ <li>
+	     <div class="blog-contents">
+   {{ if .Params.thumbnail }}
+
+		     <div class="image_box">
+
+           <a href="{{ .Permalink }}">
+
+
+               <img src="{{ .Params.thumbnail }}" alt="{{ .Params.title }}" class="rounded-lg shadow-sm w-full h-52 object-cover" style="object-fit: cover;width: 300px;height: 300px;" />
+
+
+               </div>
+           <div class="content_box">
+            <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+<p>{{ .Summary }}</P>
+
+
+
+       </div>
+
+
+           {{else}}
+
+        <div class="content_box">
+         <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+
+<p>{{ .Summary }}</p>
+
+
+    </div>
+{{end}}
+ </div>
+    </li>
+
+
+  {{end}}
+</ul>
+
+date: {{ .Date }}
+year: {{ .Date | dateFormat "2006" }}
+month: {{ .Date | dateFormat "2006-01" }}
