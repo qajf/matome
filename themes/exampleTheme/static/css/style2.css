@@ -7,6 +7,29 @@ body {
   /*background: #f6f5f4;*/
 }
 
+#page-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 80%;
+}
+
+#page-top a {
+    display: block;
+    background: #666;
+    color: #fff;
+    width: 100px;
+    padding: 25px 0;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+#page-top a:hover {
+    background: #999;
+    text-decoration: none;
+}
+
 .nav-links  ul.pagination {
   text-align: center;
   margin: 0;
@@ -90,6 +113,7 @@ body {
     background: #999;
     text-decoration: none;
 }
+}
 
 .col-sm-8 {
     width: 100%;
@@ -166,13 +190,13 @@ margin-left:5%;
     top: 10px;
 }
 
-/*#content ul {
+#content ul {
   display: flex;
 flex-wrap: wrap;
 justify-content: center;
 
 }
-+/
+
 
 #content ul.gallery {
   display: flex;
@@ -622,8 +646,8 @@ padding: 0;
 .nav-links .pagination li {
   margin-bottom:10px;
 }
-}
 
+/*
    h1 {
      font-size: 20px;
      margin:10px;
@@ -633,6 +657,7 @@ padding: 0;
      margin:10px;
    }
 
+*/
 .postcard{flex-direction:column;}
 .box{
     width:100%;
