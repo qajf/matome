@@ -1,7 +1,7 @@
 ---
 title: "まとめ3"
 date: 2022-06-30T22:10:20+09:00
-tags : 
+tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome1-9"]
@@ -12,7 +12,7 @@ categories : ["matome1-9"]
 
 <div class="mat"><div class="nav-links">
 <ul class="pagination">
-<li><a href="../matome1"><span>１</span></a><li><a href="../matome2/"><span>2</span></a></li><li><a href="#" class="active"><span>3</span></a></li><li><a href="../matome4/"><span>４</span></a><li><a href="../matome5/"><span>５</span></a></li><li><a href="../matome6/"><span class="s2">６</span></a></li><li><a href="../matome7/"><span class="s2">７</span></a></li><li><a href="../matome8/"><span class="s2">８</span></a></li><li><a  href="../matome9/"><span class="s2">９</span></a></li><li><a href="../../matome10-19/matome10/"><span class="s2">１０以降</span></a></li></span></p></ul></div>
+<li><a href="../matome1"><span>１</span></a><li><a href="../matome2/"><span>2</span></a></li><li><a href="#" class="active"><span>3</span></a></li><li><a href="../matome4/"><span>４</span></a><li><a href="../matome5/"><span>５</span></a></li><li><a href="../matome6/"><span class="s2">６</span></a></li><li><a href="../matome7/"><span class="s2">７</span></a></li><li><a href="../matome8/"><span class="s2">８</span></a></li><li><a  href="../matome9/"><span class="s2">９</span></a></li><li><a href="../matome10/"><span class="s2">１０以降</span></a></li></span></p></ul></div>
 <p class="p1"><span class="s1">WherewegoOnewegoAll - Abbey Cook - YouTube<br>
 <br>
 これは名曲ですよ！！<br>

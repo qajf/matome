@@ -1,7 +1,7 @@
 ---
 title: "まとめ4"
 date: 2022-06-30T22:00:20+09:00
-tags : 
+tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome1-9"]
@@ -10,7 +10,7 @@ categories : ["matome1-9"]
 ---
 <div class="mat"><div class="nav-links">
 <ul class="pagination">
-<li><a href="../matome1"><span>１</span></a><li><a href="../matome2/"><span>2</span></a></li><li><a href="../matome3/"><span>3</span></a></li><li><a href="#" class="active"><span>4</span></a></li><li><a href="../matome5/"><span>５</span></a></li><li><a href="../matome6/"><span class="s2">６</span></a></li><li><a href="../matome7/"><span class="s2">７</span></a></li><li><a href="../matome8/"><span class="s2">８</span></a></li><li><a  href="../matome9/"><span class="s2">９</span></a></li><li><a href="../../matome10-19/matome10/"><span class="s2">１０以降</span></a></li></span></p></ul></div>
+<li><a href="../matome1"><span>１</span></a><li><a href="../matome2/"><span>2</span></a></li><li><a href="../matome3/"><span>3</span></a></li><li><a href="#" class="active"><span>4</span></a></li><li><a href="../matome5/"><span>５</span></a></li><li><a href="../matome6/"><span class="s2">６</span></a></li><li><a href="../matome7/"><span class="s2">７</span></a></li><li><a href="../matome8/"><span class="s2">８</span></a></li><li><a  href="../matome9/"><span class="s2">９</span></a></li><li><a href="../matome10/"><span class="s2">１０以降</span></a></li></span></p></ul></div>
 <p class="p1"><span class="s1">ご自分で出産し育てるまでヒトの成長に何が必要なのか、母親経験の無い方には実感できない分野です。<br>
 昔は私も子は産めば他人に任せて遊びに行けると軽く考えていました。でも実際は子は絶対に母親の側を離れたがらない。<br>
 幼少期に子にしっかりと寄り添えばその子はとても賢く成長する。これが愛の力です<br>

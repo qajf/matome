@@ -1,7 +1,7 @@
 ---
 title: "まとめ2"
 date: 2022-06-30T22:20:20+09:00
-tags : 
+tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome1-9"]
@@ -11,7 +11,7 @@ categories : ["matome1-9"]
 <div class="mat">
 <div class="nav-links">
 <ul class="pagination">
-<li><a href="../matome1/"><span>１</span></a><li><a href="#" class="active"><span>2</span></a><li><a href="../matome3/"><span>３</span></a><li><a href="../matome4/"><span>４</span></a><li><a href="../matome5/"><span>５</span></a></li><li><a href="../matome6/"><span class="s2">６</span></a></li><li><a href="../matome7/"><span class="s2">７</span></a></li><li><a href="../matome8/"><span class="s2">８</span></a></li><li><a  href="../matome9/"><span class="s2">９</span></a></li><li><a href="../../matome10-19/matome10/"><span class="s2">１０以降</span></a></li></span></p></ul></div> 
+<li><a href="../matome1/"><span>１</span></a><li><a href="#" class="active"><span>2</span></a><li><a href="../matome3/"><span>３</span></a><li><a href="../matome4/"><span>４</span></a><li><a href="../matome5/"><span>５</span></a></li><li><a href="../matome6/"><span class="s2">６</span></a></li><li><a href="../matome7/"><span class="s2">７</span></a></li><li><a href="../matome8/"><span class="s2">８</span></a></li><li><a  href="../matome9/"><span class="s2">９</span></a></li><li><a href="../matome10/"><span class="s2">１０以降</span></a></li></span></p></ul></div> 
 <p class="p1"><span class="s1">戦後から、もっといえば明治維新から徹底的に刷り込まれてきた間違った情報や価値観を全てリセットし、<br>
 新しい考え方を受け入れる作業が、実は一番大変なのです。<br>
 そのために活動しているのがQ情報軍/QArmyJapanFlynnであるということを、どうかご理解ください。m(_ _)m<br>

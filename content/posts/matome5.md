@@ -1,7 +1,7 @@
 ---
 title: "まとめ5"
 date: 2022-06-30T21:50:20+09:00
-tags : 
+tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome1-9"]
@@ -10,7 +10,7 @@ categories : ["matome1-9"]
 ---
 <div class="mat"><div class="nav-links">
 <ul class="pagination">
-<li><a href="../matome1"><span>１</span></a><li><a href="../matome2/"><span>2</span></a></li><li><a href="../matome3/"><span>3</span></a></li><li><a href="../matome4"><span>4</span></a></li><li><a href="#" class="active"><span>５</span></a></li><li><a href="../matome6/"><span class="s2">６</span></a></li><li><a href="../matome7/"><span class="s2">７</span></a></li><li><a href="../matome8/"><span class="s2">８</span></a></li><li><a  href="../matome9/"><span class="s2">９</span></a></li><li><a href="../../matome10-19/matome10/"><span class="s2">１０以降</span></a></li></span></p></ul></div>
+<li><a href="../matome1"><span>１</span></a><li><a href="../matome2/"><span>2</span></a></li><li><a href="../matome3/"><span>3</span></a></li><li><a href="../matome4"><span>4</span></a></li><li><a href="#" class="active"><span>５</span></a></li><li><a href="../matome6/"><span class="s2">６</span></a></li><li><a href="../matome7/"><span class="s2">７</span></a></li><li><a href="../matome8/"><span class="s2">８</span></a></li><li><a  href="../matome9/"><span class="s2">９</span></a></li><li><a href="../matome10/"><span class="s2">１０以降</span></a></li></span></p></ul></div>
 <p class="p1"><span class="s1">Q#3369<br>
 メディアの仕事は人々に真実を伝えることではなく、'ウソ話'を真顔で報道し、その'ウソ話'に信憑性を持たせるため'<br>
 専門家'(←スゴイ学歴も経歴もNO勉で手に入る)の解説で念を押させ、'羊たち(一般市民)が列を外れないよう'コントロールを保つこと<br>

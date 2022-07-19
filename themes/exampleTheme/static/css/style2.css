@@ -66,6 +66,31 @@ body {
 }
 */
 
+@media only screen and (max-width: 767px){
+  ｝
+#page-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 80%;
+}
+
+#page-top a {
+    display: block;
+    background: #666;
+    color: #fff;
+    width: 100px;
+    padding: 25px 0;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+#page-top a:hover {
+    background: #999;
+    text-decoration: none;
+}
+
 .col-sm-8 {
     width: 100%;
     background: #fff;
@@ -588,6 +613,15 @@ margin: 0;
 padding: 0;
 }
  @media screen and (max-width:480px){
+
+   ul.pagination {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nav-links .pagination li {
+  margin-bottom:10px;
+}
 
    h1 {
      font-size: 20px;

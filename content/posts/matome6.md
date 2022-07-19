@@ -1,7 +1,7 @@
 ---
 title: "まとめ6"
 date: 2022-06-30T21:40:20+09:00
-tags : 
+tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome1-9"]
@@ -10,7 +10,7 @@ categories : ["matome1-9"]
 ---
 <div class="mat"><div class="nav-links">
 <ul class="pagination">
-<li><a href="../matome1"><span>１</span></a><li><a href="../matome2/"><span>2</span></a></li><li><a href="../matome3/"><span>3</span></a></li><li><a href="../matome4"><span>4</span></a></li><li><a href="../matome5" ><span>５</span></a></li><li><a href="#" class="active"><span class="s2">６</span></a></li><li><a href="../matome7/"><span class="s2">７</span></a></li><li><a href="../matome8/"><span class="s2">８</span></a></li><li><a  href="../matome9/"><span class="s2">９</span></a></li><li><a href="../../matome10-19/matome10/"><span class="s2">１０以降</span></a></li></span></p></ul></div>
+<li><a href="../matome1"><span>１</span></a><li><a href="../matome2/"><span>2</span></a></li><li><a href="../matome3/"><span>3</span></a></li><li><a href="../matome4"><span>4</span></a></li><li><a href="../matome5" ><span>５</span></a></li><li><a href="#" class="active"><span class="s2">６</span></a></li><li><a href="../matome7/"><span class="s2">７</span></a></li><li><a href="../matome8/"><span class="s2">８</span></a></li><li><a  href="../matome9/"><span class="s2">９</span></a></li><li><a href="../matome10/"><span class="s2">１０以降</span></a></li></span></p></ul></div>
 <p class="p1"><span class="s1">「米外交官クリストファー スティーブンスは レイプされ、拷問され、牛の角で突かれ、生き絶えるまで7時間もの間焼かれた。<br>
 オバマとヒラリーは命乞いする彼を無視した」<br>
 ↑wikiで "ChristopherStevens" を調べると "テロリストに殺害された" と。あってるといえばあってますね...<br>
