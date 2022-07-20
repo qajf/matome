@@ -4,7 +4,8 @@
 <h1>Twitter まとめ</h1>
 
 <ul class="gallery">
- {{ range (.Paginator 5).Pages }}
+ {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") 5 }}
+{{ range $paginator.Pages }}
 
  <li>
 	     <div class="gallery-contents">
