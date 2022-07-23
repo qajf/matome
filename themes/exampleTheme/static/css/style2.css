@@ -525,7 +525,7 @@ a:hover {
             background-color: #000;
         }
 
-    }
+}
 
     .postcard{
   display: flex;
@@ -641,6 +641,10 @@ margin: 0;
 padding: 0;
 }
  @media screen and (max-width:480px){
+
+   ul.gallery li {
+     max-width: 100%;
+   }
 
    ul.pagination {
     display: flex;
