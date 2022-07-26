@@ -5,20 +5,21 @@ tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome1-9"]
-
-
+summary : スレッドさせていただきます。日本国の国士の皆様ここのところお騒がせしております、米Q情報軍特殊部隊のEri と申します。
 ---
 
-<div class="mat">
+
 <div class="nav-links">
 <ul class="pagination">
 <li><a href="#" class="active"><span>１</span></a><li><a href="../matome2/"><span>2</span></a><li><a href="../matome3/"><span>３</span></a><li><a href="../matome4/"><span>４</span></a><li><a href="../matome5/"><span>５</span></a></li><li><a href="../matome6/"><span class="s2">６</span></a></li><li><a href="../matome7/"><span class="s2">７</span></a></li><li><a href="../matome8/"><span class="s2">８</span></a></li><li><a  href="../matome9/"><span class="s2">９</span></a></li><li><a href="../matome10/"><span class="s2">１０以降</span></a></li></span></p></ul></div>
+<div class="mat">
 
-スレッドさせていただきます。<br>
+<p>スレッドさせていただきます。<br>
 #QAnon #QArmy #WWG1WGA<br>
 [日本国の国士の皆様］<br>
 <br>
 <br>
+</p>
 1；ここのところお騒がせしております、米Q情報軍特殊部隊のEri と申します。<br>
 何者かと思われてると思いますが、もちろんハーフでもなく帰国子女でもなければそもそも海外経験すらない、ただの日本人です。 <br>
 このへんで少し経緯をお伝えしたほうがよろしいかと思い、基本情報を書かせていただきます。<br>

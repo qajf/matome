@@ -1,12 +1,11 @@
 ---
 title: "まとめ15"
 date: 2022-06-29T22:50:20+09:00
-tags : 
+tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome10-19"]
-
-
+summary : アメリカについて学ぼう!　・歴代大統領夫人　＃QArmyJapanFlynn
 ---
 <div class="mat">
 <div class="nav-links">

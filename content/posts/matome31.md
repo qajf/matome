@@ -1,11 +1,11 @@
 ---
 title: "まとめ31"
 date: 2022-06-27T23:30:20+09:00
-tags : 
+tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome30-34"]
-
+summary : (2020/9/30ツイート)(Qmap. pub 閉鎖について)先日の9月(17)日頃 Qmap. pub を運営していた私の友人でもあるジェイソン・ゲリナス(qappanon)がDoxxing攻撃を受け大手MSM各社に仕事先や名前を晒されQmapを閉鎖に追込まれるという事件が起きました
 
 ---
 <div class="mat">

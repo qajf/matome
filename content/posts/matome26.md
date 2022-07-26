@@ -1,11 +1,11 @@
 ---
 title: "まとめ26"
 date: 2022-06-28T22:40:20+09:00
-tags : 
+tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome20-29"]
-
+summary : すべての工作員が　戦闘配置に戦争我らが共和国の未来が　危機に瀕している国家の生き残りを　かけて立ち上がるか　さもなくば　死ぬかだ我ら　人類 ＃Q
 
 ---
 <div class="mat">

@@ -1,12 +1,11 @@
 ---
 title: "まとめ33"
 date: 2022-06-27T23:10:20+09:00
-tags : 
+tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome30-34"]
-
-
+summary : 連想ゲーム ＃赤黄青 といえば... "三色旗は、池田先生の提案から始まったものです" 
 ---
 <div class="mat">
 <div class="nav-links">

@@ -5,7 +5,7 @@ tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome1-9"]
-
+summary : メディアの仕事は人々に真実を伝えることではなく、'ウソ話'を真顔で報道し、その'ウソ話'に信憑性を持たせるため'専門家'(←スゴイ学歴も経歴もNO勉で手に入る)の解説で念を押させ、'羊たち(一般市民)が列を外れないよう'コントロールを保つこと
 
 ---
 <div class="mat"><div class="nav-links">

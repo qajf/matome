@@ -1,11 +1,11 @@
 ---
 title: "まとめ27"
 date: 2022-06-28T22:30:20+09:00
-tags : 
+tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome20-29"]
-
+summary : 【病院で老人を殺せば疑われない】「老人ホームにおける新型コロナウィルス死のほぼ半分が　これら民主党知事の州で起きた」「これは　組織犯罪だ」
 
 ---
 <div class="mat">

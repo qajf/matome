@@ -1,11 +1,11 @@
 ---
 title: "まとめ32"
 date: 2022-06-27T23:20:20+09:00
-tags : 
+tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome30-34"]
-
+summary : There' a reason I'm followed by so many patriots all over the world, and Mr.Paladin. Because I'm honest. Thank you for the mention, LOSER. Here's a proof.This is my twitter audit result 3weeks ago, on this site, my follower was 77650+943=78593 in total.
 
 ---
 <div class="mat">

@@ -6,7 +6,7 @@ archives : ["2022/05"]
 socialshare: true
 categories : ["matome1-9"]
 
-
+summary : 「米外交官クリストファー スティーブンスは レイプされ、拷問され、牛の角で突かれ、生き絶えるまで7時間もの間焼かれた。オバマとヒラリーは命乞いする彼を無視した」↑wikiで "ChristopherStevens" を調べると "テロリストに殺害された" と。あってるといえばあってますね...
 ---
 <div class="mat"><div class="nav-links">
 <ul class="pagination">

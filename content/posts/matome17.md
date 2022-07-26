@@ -1,11 +1,11 @@
 ---
 title: "まとめ17"
 date: 2022-06-29T22:30:20+09:00
-tags : 
+tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome10-19"]
-
+summary : 『トランプ政権3年間の功績』(日本語字幕版)が完成しました。是非ご覧ください! "3 Years of Accomplishments" (by The White House) with Japanese subtitles.
 
 ---
 <div class="mat">

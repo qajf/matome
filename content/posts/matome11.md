@@ -1,12 +1,11 @@
 ---
 title: "まとめ11"
 date: 2022-06-29T23:30:20+09:00
-tags : 
+tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome10-19"]
-
-
+summary : 米海軍が、特許制度を通じて 秘密宇宙計画テクノロジーを開示する。[液体燃料推進→電磁推進へ]宇宙プログラムは、何十年にもわたって秘密裏に進められてきた。
 ---
 <div class="mat">
 <div class="nav-links">

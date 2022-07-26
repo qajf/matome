@@ -5,8 +5,7 @@ tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome1-9"]
-
-
+summary : 戦後から、もっといえば明治維新から徹底的に刷り込まれてきた間違った情報や価値観を全てリセットし、新しい考え方を受け入れる作業が、実は一番大変なのです。そのために活動しているのがQ情報軍/QArmyJapanFlynnであるということを、どうかご理解ください。m(_ _)m
 ---
 <div class="mat">
 <div class="nav-links">

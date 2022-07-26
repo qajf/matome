@@ -5,7 +5,7 @@ tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome1-9"]
-
+summary : ケネディ大統領、安らかにお眠り下さい。あなたの悲劇の死以来、愛国者達は、その知恵と強さを通して「光」の渡しを計画・設置し、神の品位によって起動してきました
 
 ---
 <div class="mat"><div class="nav-links">

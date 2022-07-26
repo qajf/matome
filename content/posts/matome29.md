@@ -1,11 +1,11 @@
 ---
 title: "まとめ29"
 date: 2022-06-28T22:10:20+09:00
-tags : 
+tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome20-29"]
-
+summary : QAJF隊員も招待されている ＃QArmy の独軍は現在124,955 名 私は ＃QArmy のUSA に参加させてもらっていますが そこは隊員8,793名　これに対し＃QAJF の100人超という規模はまだまだ少ないので人の気持ちがわかるマウントを取らない妬まない謙虚で明るい決めつけない方のご参加をお待ちしてます
 
 ---
 <div class="mat">

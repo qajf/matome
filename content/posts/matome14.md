@@ -1,11 +1,11 @@
 ---
 title: "まとめ14"
 date: 2022-06-29T23:00:20+09:00
-tags : 
+tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome10-19"]
-
+summary : Qの予告通り大手メディアのFoxニュースでQの話題が。"米国民の10％がQのフォロワーだ"というお話でした。動画中でムラーのロシア疑惑調査の話を見たら、もう8ヶ月も前に記事にしたかったのものを思い出しました。
 
 ---
 <div class="mat">

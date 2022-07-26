@@ -5,7 +5,7 @@ tags :
 archives : ["2022/05"]
 socialshare: true
 categories : ["matome1-9"]
-
+summary : WherewegoOnewegoAll - Abbey Cook - YouTube これは名曲ですよ！！ Qのこと知ってる人支援してる人、最前線で戦ってる人是非聴いて欲しいです。<br>
 
 ---
 
