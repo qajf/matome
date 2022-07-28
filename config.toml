@@ -75,6 +75,10 @@ weight = 6
     parent = "QAJF"
       target= "_blank"
 [[menu.main]]
+    name = "QAJF Twitterまとめ"
+    url = "https://qajf.github.io/matome/"
+    parent = "QAJF"
+[[menu.main]]
       name ="Radio"
       url = "https://qajf.github.io/radio.html"
 weight = 7
