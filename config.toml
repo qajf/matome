@@ -85,7 +85,7 @@ weight = 7
 weight = 8
 [[menu.main]]
      name = "meme"
-     url = "https://qajf.github.io//galleries/"
+     url = "https://qajf.github.io/gallery/galleries/"
      
 weight = 9
 [[menu.main]]
